@@ -1,1 +1,2 @@
-/.docker/wget/volumes/saved_contents
+/.docker/wget/volumes/saved_contents/*
+!/.docker/wget/volumes/saved_contents/.gitkeep
